@@ -1,4 +1,6 @@
-public abstract class Bicycle extends Vehicle{
+package oop_exercise;
+
+public abstract class Bicycle extends Vehicle {
     private Boolean hasGear ;
 
     Bicycle(String brand, Integer year, Boolean hasGear){

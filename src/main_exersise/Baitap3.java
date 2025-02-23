@@ -1,4 +1,4 @@
-package exersise;
+package main_exersise;
 
 import java.util.Scanner;
 

@@ -1,3 +1,6 @@
+package oop_exercise;
+
+
 public class Car extends Vehicle{
     private Integer numSeats;
 
@@ -6,7 +9,7 @@ public class Car extends Vehicle{
         this.numSeats = numSeats;
     }
     @Override
-    public void displayInfoAbstract(){};
+    public void displayInfoAbstract(){}
 
     @Override
     public void displayInfo() {

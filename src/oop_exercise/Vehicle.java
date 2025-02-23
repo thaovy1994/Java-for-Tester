@@ -1,3 +1,5 @@
+package oop_exercise;
+
 public abstract class Vehicle {
     private String brand;
     private Integer year;

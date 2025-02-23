@@ -1,3 +1,5 @@
+package oop_exercise;
+
 public abstract class Motorcycle extends Vehicle{
     private Integer engineCapacity;
 

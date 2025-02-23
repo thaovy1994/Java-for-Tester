@@ -2,22 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e84f53da-41f0-4037-9b32-33b5e6058830" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session15_oop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersise/Baitap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersise/Baitap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersise/Baitap3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersise/Baitap4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersise/Baitap5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_exercise/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Motorcycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exersise/Baitap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main_exersise/Baitap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exersise/Baitap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main_exersise/Baitap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exersise/Baitap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main_exersise/Baitap3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exersise/Baitap4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main_exersise/Baitap4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exersise/Baitap5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main_exersise/Baitap5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,8 @@
       <workItem from="1739585230840" duration="3235000" />
       <workItem from="1739968666527" duration="9000" />
       <workItem from="1740020958477" duration="7551000" />
-      <workItem from="1740208083537" duration="7158000" />
+      <workItem from="1740208083537" duration="7702000" />
+      <workItem from="1740299275149" duration="334000" />
     </task>
     <servers />
   </component>

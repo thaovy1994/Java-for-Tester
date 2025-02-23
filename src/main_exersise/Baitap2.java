@@ -1,6 +1,5 @@
-package exersise;
+package main_exersise;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Baitap2 {

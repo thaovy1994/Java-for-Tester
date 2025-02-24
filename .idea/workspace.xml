@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e84f53da-41f0-4037-9b32-33b5e6058830" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main_exersise/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main_exersise/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main_exersise/PersonalTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main_exersise/PersonalTax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <workItem from="1740208083537" duration="7702000" />
       <workItem from="1740299275149" duration="1236000" />
       <workItem from="1740301036047" duration="92000" />
-      <workItem from="1740399173618" duration="1126000" />
+      <workItem from="1740399173618" duration="3921000" />
     </task>
     <servers />
   </component>
